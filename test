@@ -1,0 +1,8 @@
+ARGV      : ['-k', 'fb', '--app', 'hello']
+OPTIONS   : [('-k', 'fb'), ('--app', 'hello')]
+VERSION   : 1.0
+VERBOSE   : False
+OUTPUT    : default.out
+REMAINING : []
+APP       : hello
+KEY       : fb
